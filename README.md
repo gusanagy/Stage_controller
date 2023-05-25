@@ -36,3 +36,6 @@ Certifique-se de ajustar as coordenadas de acordo com o ambiente de execução.
 O script utiliza o tópico /base_pose_ground_truth para obter a posição absoluta do robô e o tópico /base_scan para obter dados do sensor laser. Certifique-se de que esses tópicos estejam configurados corretamente no ambiente de execução.
 O script foi projetado para mover o robô em um ambiente de simulação, onde um objetivo é definido e o robô navega em direção a ele. Se estiver executando em um ambiente real, certifique-se de configurar corretamente os tópicos e a comunicação com o robô físico.
 Nota: Este README fornece uma visão geral simplificada do script de controle de navegação ROS. Para obter informações mais detalhadas sobre o funcionamento do script e sua implementação, consulte o código-fonte comentado.
+
+# Simulação
+*link para o video da simulação: https://youtu.be/8IR4StpaaV0
