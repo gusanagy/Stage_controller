@@ -1,0 +1,2 @@
+stage_controller
+-DCATKIN_DEVEL_PREFIX=/home/gusanagy20/stagec_ws/devel -DCMAKE_INSTALL_PREFIX=/home/gusanagy20/stagec_ws/install -G Unix Makefiles
